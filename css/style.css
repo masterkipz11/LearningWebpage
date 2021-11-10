@@ -170,6 +170,7 @@ hr {
 .footer-link{
   line-height: 4;
   padding: 0 50px;
+  text-decoration: none;
 }
 .bottom-container>p{
   margin-top: 20px;
